@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Docker Nginx 웹서버 실습
 
 ## 프로젝트 소개
@@ -96,4 +95,3 @@ docker run -d -p 8080:80 -v ${PWD}/app:/usr/share/nginx/html --name web-bind my-
 
 **수정 후**
 ![수정 후 화면](images/after.png)
-=======
